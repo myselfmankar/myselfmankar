@@ -85,7 +85,7 @@
         <rect x="20" y="20" width="0" height="26">
           <animate attributeName="width"
             from="0"
-            to="313.2"
+            to="487.2"
             dur="0.9s"
             begin="11.949999999999998s; loop.begin + 11.949999999999998s"
             fill="freeze"/>
@@ -403,7 +403,7 @@
 
         <rect x="0" y="0" rx="22" ry="22" width="850" height="120" class="bubble"/>
         
-      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Pushed 35 commits this week</text>
+      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Pushed 35 commits this week, 17 last week,</text>
     
       <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 317 commits this year.</text>
     
