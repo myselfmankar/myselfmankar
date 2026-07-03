@@ -85,7 +85,7 @@
         <rect x="20" y="20" width="0" height="26">
           <animate attributeName="width"
             from="0"
-            to="696"
+            to="313.2"
             dur="0.9s"
             begin="11.949999999999998s; loop.begin + 11.949999999999998s"
             fill="freeze"/>
@@ -101,7 +101,7 @@
         <rect x="20" y="50" width="0" height="26">
           <animate attributeName="width"
             from="0"
-            to="313.2"
+            to="301.59999999999997"
             dur="0.9s"
             begin="12.749999999999998s; loop.begin + 12.749999999999998s"
             fill="freeze"/>
@@ -403,9 +403,9 @@
 
         <rect x="0" y="0" rx="22" ry="22" width="850" height="120" class="bubble"/>
         
-      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Building Go/Rust backends. Pushed 35 contributions this week</text>
+      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Pushed 35 commits this week</text>
     
-      <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 317 over the last year.</text>
+      <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 317 commits this year.</text>
     
       <text x="20" y="98" class="text" clip-path="url(#clip-m4-2)">I'm in absolute beast mode! Pushing code like there's no tomorrow.</text>
     
