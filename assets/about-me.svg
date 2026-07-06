@@ -403,9 +403,9 @@
 
         <rect x="0" y="0" rx="22" ry="22" width="850" height="120" class="bubble"/>
         
-      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Pushed 16 commits this week, 43 last week,</text>
+      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Pushed 17 commits this week, 43 last week,</text>
     
-      <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 319 commits this year.</text>
+      <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 251 commits this year.</text>
     
       <text x="20" y="98" class="text" clip-path="url(#clip-m4-2)">I'm in absolute beast mode! Pushing code like there's no tomorrow.</text>
     
