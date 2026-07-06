@@ -287,9 +287,9 @@
 
         <rect x="0" y="0" rx="22" ry="22" width="760" height="90" class="bubble"/>
         
-      <text x="20" y="38" class="text" clip-path="url(#clip-m2-0)">Good evening!</text>
+      <text x="20" y="38" class="text" clip-path="url(#clip-m2-0)">Good morning!</text>
     
-      <text x="20" y="68" class="text" clip-path="url(#clip-m2-1)">I am from Pune, India where it is 23°C and drizzling today.</text>
+      <text x="20" y="68" class="text" clip-path="url(#clip-m2-1)">I am from Pune, India where it is 25°C and drizzling today.</text>
     
       </g>
     </g>
@@ -403,9 +403,9 @@
 
         <rect x="0" y="0" rx="22" ry="22" width="850" height="120" class="bubble"/>
         
-      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Pushed 37 commits this week, 18 last week,</text>
+      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Pushed 12 commits this week, 43 last week,</text>
     
-      <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 321 commits this year.</text>
+      <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 315 commits this year.</text>
     
       <text x="20" y="98" class="text" clip-path="url(#clip-m4-2)">I'm in absolute beast mode! Pushing code like there's no tomorrow.</text>
     
@@ -463,7 +463,7 @@
 
         <rect x="0" y="0" rx="22" ry="22" width="530" height="60" class="bubble"/>
         
-      <text x="20" y="38" class="text" clip-path="url(#clip-m5-0)">Have a great Sunday! 🚀</text>
+      <text x="20" y="38" class="text" clip-path="url(#clip-m5-0)">Have a great Monday! 🚀</text>
     
       </g>
     </g>
