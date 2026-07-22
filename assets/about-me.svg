@@ -37,7 +37,7 @@
         <rect x="20" y="50" width="0" height="26">
           <animate attributeName="width"
             from="0"
-            to="661.1999999999999"
+            to="684.4"
             dur="0.9s"
             begin="5.1499999999999995s; loop.begin + 5.1499999999999995s"
             fill="freeze"/>
@@ -117,7 +117,7 @@
         <rect x="20" y="80" width="0" height="26">
           <animate attributeName="width"
             from="0"
-            to="580"
+            to="810"
             dur="0.9s"
             begin="13.549999999999997s; loop.begin + 13.549999999999997s"
             fill="freeze"/>
@@ -287,9 +287,9 @@
 
         <rect x="0" y="0" rx="22" ry="22" width="760" height="90" class="bubble"/>
         
-      <text x="20" y="38" class="text" clip-path="url(#clip-m2-0)">Good morning!</text>
+      <text x="20" y="38" class="text" clip-path="url(#clip-m2-0)">Good evening!</text>
     
-      <text x="20" y="68" class="text" clip-path="url(#clip-m2-1)">I am from Pune, India where it is 22°C and showery today.</text>
+      <text x="20" y="68" class="text" clip-path="url(#clip-m2-1)">I am from Pune, India where it is 23°C and drizzling today.</text>
     
       </g>
     </g>
@@ -407,7 +407,7 @@
     
       <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 251 commits this year.</text>
     
-      <text x="20" y="98" class="text" clip-path="url(#clip-m4-2)">Taking a break from code to enjoy the Pune rain! ☔</text>
+      <text x="20" y="98" class="text" clip-path="url(#clip-m4-2)">I'm probably offline touching grass, building a life, or debugging in a cave.</text>
     
       </g>
     </g>
