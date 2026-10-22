@@ -37,7 +37,7 @@
         <rect x="20" y="50" width="0" height="26">
           <animate attributeName="width"
             from="0"
-            to="638"
+            to="649.6"
             dur="0.9s"
             begin="5.1499999999999995s; loop.begin + 5.1499999999999995s"
             fill="freeze"/>
@@ -287,9 +287,9 @@
 
         <rect x="0" y="0" rx="22" ry="22" width="760" height="90" class="bubble"/>
         
-      <text x="20" y="38" class="text" clip-path="url(#clip-m2-0)">Good morning!</text>
+      <text x="20" y="38" class="text" clip-path="url(#clip-m2-0)">Good evening!</text>
     
-      <text x="20" y="68" class="text" clip-path="url(#clip-m2-1)">I am from Pune, India where it is 30°C and sunny today.</text>
+      <text x="20" y="68" class="text" clip-path="url(#clip-m2-1)">I am from Pune, India where it is 27°C and cloudy today.</text>
     
       </g>
     </g>
@@ -403,11 +403,11 @@
 
         <rect x="0" y="0" rx="22" ry="22" width="850" height="120" class="bubble"/>
         
-      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Pushed 0 commits this week, 0 last week,</text>
+      <text x="20" y="38" class="text" clip-path="url(#clip-m4-0)">Pushed 4 commits this week, 0 last week,</text>
     
-      <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 281 commits this year.</text>
+      <text x="20" y="68" class="text" clip-path="url(#clip-m4-1)">and 285 commits this year.</text>
     
-      <text x="20" y="98" class="text" clip-path="url(#clip-m4-2)">I'm probably offline touching grass, building a life, or debugging in a cave.</text>
+      <text x="20" y="98" class="text" clip-path="url(#clip-m4-2)">Cloudy days are perfect for staying in and shipping high-performance code! ☁️</text>
     
       </g>
     </g>
