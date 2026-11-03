@@ -29,6 +29,7 @@ CGPA: **9.03 / 10**
 
 - [Portfolio](https://myselfmankar-github-io.pict-vaishnav.workers.dev/)
 - [NeetCode](https://neetcode.io/user/AstuteSpeeder675)
+- [LinkedIn](https://www.linkedin.com/in/vaishnav-mankar/)
 - [GitHub repositories](https://github.com/myselfmankar?tab=repositories)
 
 ---
