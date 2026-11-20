@@ -39,7 +39,6 @@ CGPA: **9.02 / 10**
 
 - [Portfolio and contact form](https://myselfmankar.github.io)
 - [LinkedIn](https://www.linkedin.com/in/vaishnav-mankar/)
-- [Email](mailto:vaishnav.mankar@gmail.com)
 
 ---
 
